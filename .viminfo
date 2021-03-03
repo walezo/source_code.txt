@@ -21,13 +21,24 @@
 # Registers:
 
 # File marks:
-'0  5  22  ~/gitdir/source_code
+'0  5  2  ~/gitdir/source_code.txt
+'1  5  22  ~/gitdir/source_code
 
 # Jumplist (newest first):
+-'  5  2  ~/gitdir/source_code.txt
+-'  1  0  ~/gitdir/source_code.txt
+-'  5  22  ~/gitdir/source_code
+-'  1  0  ~/gitdir/source_code
 -'  5  22  ~/gitdir/source_code
 -'  1  0  ~/gitdir/source_code
 
 # History of marks within files (newest to oldest):
+
+> ~/gitdir/source_code.txt
+	"	5	2
+	^	5	3
+	.	5	3
+	+	5	3
 
 > ~/gitdir/source_code
 	"	5	22
