@@ -1,0 +1,40 @@
+[ 1614686522.806335]: IMSettings-Daemon[2091]: INFO: Starting imsettings-daemon...
+[ 1614686522.807024]: IMSettings-Daemon[2091]: INFO:   [HOME=/home/lanreo/.config/imsettings]
+[ 1614686522.807079]: IMSettings-Daemon[2091]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1614686522.807129]: IMSettings-Daemon[2091]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1614686522.807178]: IMSettings-Daemon[2091]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1614686522.807231]: IMSettings-Daemon[2091]: INFO:   [MODULES=gsettings]
+
+imsettings information
+==========================
+XINPUTRC: /etc/X11/xinit/xinput.d//none.conf
+	  File: ‘/etc/X11/xinit/xinput.d//none.conf’
+	  Size: 110       	Blocks: 8          IO Block: 4096   regular file
+	Device: fd00h/64768d	Inode: 9107796     Links: 1
+	Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+	Context: system_u:object_r:bin_t:s0
+	Access: 2021-03-02 07:02:02.638992740 -0500
+	Modify: 2014-06-10 03:52:06.000000000 -0400
+	Change: 2021-02-14 08:16:49.800287520 -0500
+	 Birth: -
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: yes
+Is Qt supported: no
+DESKTOP: gnome-classic
+GUESS_DESKTOP: $GDMSESSION
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-G40TNcjOBa,guid=085271c3a772042cb50d2af7603e293a
+GTK_IM_MODULE: 
+QT_IM_MODULE: xim
+XMODIFIERS: @im=none
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+[ 1614686532.172932]: IMSettings-Daemon[2091]: INFO: Attempting to switch IM to none [lang=en_US.UTF-8, update=false]
+[ 1614686534.382891]: IMSettings-Daemon[2091]: INFO:   no need to invoke any auxiliary process for none
+[ 1614686534.383002]: IMSettings-Daemon[2091]: INFO:   no need to invoke any main process for none
+[ 1614686534.383363]: IMSettings-GSettings backend[2091]: INFO: Setting up gtk-im-context-simple:xim as gtk+ immodule
