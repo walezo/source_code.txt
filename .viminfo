@@ -21,10 +21,34 @@
 # Registers:
 
 # File marks:
-'0  5  2  ~/gitdir/source_code.txt
-'1  5  22  ~/gitdir/source_code
+'0  5  22  ~/quickstart/source-code.txt
+'1  1  3  ~/quickstart/intro.txt
+'2  5  2  ~/gitdir/source_code.txt
+'3  5  22  ~/gitdir/source_code
 
 # Jumplist (newest first):
+-'  5  22  ~/quickstart/source-code.txt
+-'  1  0  ~/quickstart/source-code.txt
+-'  1  3  ~/quickstart/intro.txt
+-'  5  2  ~/gitdir/source_code.txt
+-'  1  0  ~/gitdir/source_code.txt
+-'  5  22  ~/gitdir/source_code
+-'  1  0  ~/gitdir/source_code
+-'  5  22  ~/gitdir/source_code
+-'  1  0  ~/gitdir/source_code
+-'  5  2  ~/gitdir/source_code.txt
+-'  1  0  ~/gitdir/source_code.txt
+-'  5  22  ~/gitdir/source_code
+-'  1  0  ~/gitdir/source_code
+-'  5  22  ~/gitdir/source_code
+-'  1  0  ~/gitdir/source_code
+-'  1  3  ~/quickstart/intro.txt
+-'  5  2  ~/gitdir/source_code.txt
+-'  1  0  ~/gitdir/source_code.txt
+-'  5  22  ~/gitdir/source_code
+-'  1  0  ~/gitdir/source_code
+-'  5  22  ~/gitdir/source_code
+-'  1  0  ~/gitdir/source_code
 -'  5  2  ~/gitdir/source_code.txt
 -'  1  0  ~/gitdir/source_code.txt
 -'  5  22  ~/gitdir/source_code
@@ -33,6 +57,19 @@
 -'  1  0  ~/gitdir/source_code
 
 # History of marks within files (newest to oldest):
+
+> ~/quickstart/source-code.txt
+	"	5	22
+	^	5	23
+	.	5	22
+	+	2	33
+	+	5	22
+
+> ~/quickstart/intro.txt
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
 
 > ~/gitdir/source_code.txt
 	"	5	2
